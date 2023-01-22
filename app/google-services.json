@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742054301865",
+    "project_id": "note-ease",
+    "storage_bucket": "note-ease.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742054301865:android:00a23e10bb4b2f8d9559b8",
+        "android_client_info": {
+          "package_name": "com.example.kidex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742054301865-oo9f0fbv8rqan7p3cvoa4sjm35q3v2gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMpiv4qHI5iOSpve3ssyVgz9th-wuYFg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742054301865-oo9f0fbv8rqan7p3cvoa4sjm35q3v2gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
